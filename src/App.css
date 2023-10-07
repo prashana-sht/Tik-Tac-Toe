@@ -11,3 +11,13 @@
 .board-row{
   display: block;
 }
+
+h3{
+  margin-left: 230px;
+  text-align: left;
+  margin-top: 50px;
+}
+.game-info ol{
+  text-align: left;
+  margin-left: 200px;
+}
